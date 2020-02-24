@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "test.py", line 52, in <module>
+    main(sys.argv)
+  File "test.py", line 34, in main
+    configuration.check_all()
+  File "/home/jonathan/.local/lib/python2.7/site-packages/simso/configuration/Configuration.py", line 119, in check_all
+    self.check_scheduler()
+  File "/home/jonathan/.local/lib/python2.7/site-packages/simso/configuration/Configuration.py", line 139, in check_scheduler
+    "A scheduler is needed."
+AssertionError: A scheduler is needed.

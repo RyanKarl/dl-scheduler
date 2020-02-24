@@ -1,0 +1,6 @@
+ImportError:  'module' object has no attribute 'EDF_NN'
+Path: /home/jonathan/Documents/grad_os/dl-scheduler/simso/EDF_NN.py
+ImportError:  'module' object has no attribute 'EDF_NN'
+Path: /home/jonathan/Documents/grad_os/dl-scheduler/simso/EDF_NN.py
+None
+/home/jonathan/Documents/grad_os/dl-scheduler/simso/EDF_NN.py

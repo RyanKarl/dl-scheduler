@@ -1,0 +1,4 @@
+To look at: different profiling tools, different activation functions or other ways to get input as any positive number (representing time)
+Oct. 12: Found second paper. Wrote script to get some proc data. Authors used gprof, readelf, and size to get attributes.
+Oct. 11: File I/O is functional and somewhat able to handle bad input. I'm not sure about the way the network is handling biases, and I can't tell if biases are being updated in backprop.
+TrainingData may need extensive modification for an easy flat file format

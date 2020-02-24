@@ -1,0 +1,4 @@
+Activations: 554
+Abortions: 6
+Terminations: 547
+Preemptions: 263

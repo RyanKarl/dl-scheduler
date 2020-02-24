@@ -1,0 +1,1459 @@
+Started main
+Runtime set as 1000
+Utilization is 0.5
+Generating 1 sets
+Using file scheduler
+(0, 'T3_1', 'CPU 1')
+(0, 'T1_1', 'CPU 1')
+(3000000, 'T2_1', 'CPU 1')
+(6000000, 'T3_1', 'CPU 1')
+(7000000, 'T1_2', 'CPU 1')
+(10000000, 'T3_1', 'CPU 1')
+(14000000, 'T1_3', 'CPU 1')
+(17000000, 'T2_2', 'CPU 1')
+(20000000, 'T3_2', 'CPU 1')
+(21000000, 'T1_4', 'CPU 1')
+(24000000, 'T2_3', 'CPU 1')
+(27000000, 'T3_2', 'CPU 1')
+(28000000, 'T1_5', 'CPU 1')
+(31000000, 'T3_2', 'CPU 1')
+(35000000, 'T1_6', 'CPU 1')
+(38000000, 'T2_4', 'CPU 1')
+(41000000, 'T3_3', 'CPU 1')
+(42000000, 'T1_7', 'CPU 1')
+(45000000, 'T3_3', 'CPU 1')
+(49000000, 'T2_5', 'CPU 1')
+(49000000, 'T1_8', 'CPU 1')
+(52000000, 'T2_5', 'CPU 1')
+(56000000, 'T1_9', 'CPU 1')
+(60000000, 'T2_6', 'CPU 1')
+(63000000, 'T1_10', 'CPU 1')
+(66000000, 'T3_4', 'CPU 1')
+(70000000, 'T1_11', 'CPU 1')
+(73000000, 'T2_7', 'CPU 1')
+(76000000, 'T3_4', 'CPU 1')
+(77000000, 'T1_12', 'CPU 1')
+(80000000, 'T3_5', 'CPU 1')
+(84000000, 'T2_8', 'CPU 1')
+(84000000, 'T1_13', 'CPU 1')
+(87000000, 'T3_5', 'CPU 1')
+(88000000, 'T2_8', 'CPU 1')
+(91000000, 'T1_14', 'CPU 1')
+(96000000, 'T2_9', 'CPU 1')
+(98000000, 'T1_15', 'CPU 1')
+(101000000, 'T3_6', 'CPU 1')
+(105000000, 'T2_9', 'CPU 1')
+(106000000, 'T1_16', 'CPU 1')
+(109000000, 'T2_10', 'CPU 1')
+(112000000, 'T3_6', 'CPU 1')
+(112000000, 'T1_17', 'CPU 1')
+(115000000, 'T3_6', 'CPU 1')
+(119000000, 'T1_18', 'CPU 1')
+(122000000, 'T3_7', 'CPU 1')
+(126000000, 'T2_11', 'CPU 1')
+(129000000, 'T3_7', 'CPU 1')
+(130000000, 'T1_19', 'CPU 1')
+(133000000, 'T1_20', 'CPU 1')
+(136000000, 'T2_12', 'CPU 1')
+(140000000, 'T1_21', 'CPU 1')
+(143000000, 'T3_8', 'CPU 1')
+(144000000, 'T2_13', 'CPU 1')
+(147000000, 'T1_22', 'CPU 1')
+(150000000, 'T3_8', 'CPU 1')
+(154000000, 'T1_23', 'CPU 1')
+(157000000, 'T2_14', 'CPU 1')
+(160000000, 'T3_9', 'CPU 1')
+(161000000, 'T1_24', 'CPU 1')
+(164000000, 'T3_9', 'CPU 1')
+(168000000, 'T1_25', 'CPU 1')
+(171000000, 'T2_15', 'CPU 1')
+(175000000, 'T1_26', 'CPU 1')
+(180000000, 'T2_16', 'CPU 1')
+(183000000, 'T1_27', 'CPU 1')
+(186000000, 'T3_10', 'CPU 1')
+(189000000, 'T1_28', 'CPU 1')
+(192000000, 'T2_17', 'CPU 1')
+(192000000, 'T3_10', 'CPU 1')
+(194000000, 'T2_17', 'CPU 1')
+(196000000, 'T1_29', 'CPU 1')
+(199000000, 'T2_17', 'CPU 1')
+(200000000, 'T3_11', 'CPU 1')
+(203000000, 'T1_30', 'CPU 1')
+(206000000, 'T3_11', 'CPU 1')
+(208000000, 'T2_18', 'CPU 1')
+(211000000, 'T1_31', 'CPU 1')
+(216000000, 'T2_19', 'CPU 1')
+(217000000, 'T1_32', 'CPU 1')
+(220000000, 'T2_19', 'CPU 1')
+(222000000, 'T3_12', 'CPU 1')
+(224000000, 'T1_33', 'CPU 1')
+(227000000, 'T3_12', 'CPU 1')
+(230000000, 'T2_20', 'CPU 1')
+(231000000, 'T1_34', 'CPU 1')
+(234000000, 'T2_20', 'CPU 1')
+(238000000, 'T1_35', 'CPU 1')
+(241000000, 'T3_13', 'CPU 1')
+(245000000, 'T2_21', 'CPU 1')
+(248000000, 'T1_36', 'CPU 1')
+(251000000, 'T3_13', 'CPU 1')
+(252000000, 'T2_22', 'CPU 1')
+(252000000, 'T1_37', 'CPU 1')
+(255000000, 'T2_22', 'CPU 1')
+(259000000, 'T1_38', 'CPU 1')
+(262000000, 'T3_14', 'CPU 1')
+(264000000, 'T2_23', 'CPU 1')
+(267000000, 'T3_14', 'CPU 1')
+(270000000, 'T1_39', 'CPU 1')
+(273000000, 'T1_40', 'CPU 1')
+(276000000, 'T2_24', 'CPU 1')
+(280000000, 'T3_15', 'CPU 1')
+(280000000, 'T1_41', 'CPU 1')
+(283000000, 'T3_15', 'CPU 1')
+(287000000, 'T1_42', 'CPU 1')
+(290000000, 'T2_25', 'CPU 1')
+(293000000, 'T3_15', 'CPU 1')
+(294000000, 'T1_43', 'CPU 1')
+(300000000, 'T2_26', 'CPU 1')
+(301000000, 'T1_44', 'CPU 1')
+(304000000, 'T2_26', 'CPU 1')
+(306000000, 'T3_16', 'CPU 1')
+(308000000, 'T1_45', 'CPU 1')
+(311000000, 'T3_16', 'CPU 1')
+(314000000, 'T2_27', 'CPU 1')
+(315000000, 'T1_46', 'CPU 1')
+(318000000, 'T2_27', 'CPU 1')
+(320000000, 'T3_17', 'CPU 1')
+(322000000, 'T1_47', 'CPU 1')
+(325000000, 'T2_28', 'CPU 1')
+(328000000, 'T3_17', 'CPU 1')
+(329000000, 'T1_48', 'CPU 1')
+(332000000, 'T3_17', 'CPU 1')
+(336000000, 'T1_49', 'CPU 1')
+(339000000, 'T2_29', 'CPU 1')
+(342000000, 'T3_18', 'CPU 1')
+(343000000, 'T1_50', 'CPU 1')
+(346000000, 'T3_18', 'CPU 1')
+(350000000, 'T2_30', 'CPU 1')
+(350000000, 'T1_51', 'CPU 1')
+(353000000, 'T2_30', 'CPU 1')
+(357000000, 'T1_52', 'CPU 1')
+(360000000, 'T2_31', 'CPU 1')
+(363000000, 'T3_19', 'CPU 1')
+(364000000, 'T1_53', 'CPU 1')
+(367000000, 'T3_19', 'CPU 1')
+(371000000, 'T1_54', 'CPU 1')
+(374000000, 'T2_32', 'CPU 1')
+(378000000, 'T1_55', 'CPU 1')
+(381000000, 'T3_20', 'CPU 1')
+(384000000, 'T2_33', 'CPU 1')
+(387000000, 'T1_56', 'CPU 1')
+(390000000, 'T3_20', 'CPU 1')
+(392000000, 'T1_57', 'CPU 1')
+(396000000, 'T2_34', 'CPU 1')
+(399000000, 'T1_58', 'CPU 1')
+(402000000, 'T3_21', 'CPU 1')
+(406000000, 'T1_59', 'CPU 1')
+(409000000, 'T2_35', 'CPU 1')
+(412000000, 'T3_21', 'CPU 1')
+(413000000, 'T1_60', 'CPU 1')
+(420000000, 'T1_61', 'CPU 1')
+(423000000, 'T3_22', 'CPU 1')
+(427000000, 'T2_36', 'CPU 1')
+(430000000, 'T1_62', 'CPU 1')
+(433000000, 'T2_37', 'CPU 1')
+(434000000, 'T1_63', 'CPU 1')
+(437000000, 'T3_22', 'CPU 1')
+(438000000, 'T2_37', 'CPU 1')
+(440000000, 'T3_23', 'CPU 1')
+(441000000, 'T1_64', 'CPU 1')
+(444000000, 'T2_38', 'CPU 1')
+(447000000, 'T3_23', 'CPU 1')
+(448000000, 'T1_65', 'CPU 1')
+(451000000, 'T3_23', 'CPU 1')
+(455000000, 'T1_66', 'CPU 1')
+(458000000, 'T2_39', 'CPU 1')
+(461000000, 'T3_24', 'CPU 1')
+(462000000, 'T1_67', 'CPU 1')
+(465000000, 'T3_24', 'CPU 1')
+(469000000, 'T2_40', 'CPU 1')
+(469000000, 'T1_68', 'CPU 1')
+(472000000, 'T2_40', 'CPU 1')
+(476000000, 'T1_69', 'CPU 1')
+(480000000, 'T3_25', 'CPU 1')
+(480000000, 'T2_41', 'CPU 1')
+(483000000, 'T3_25', 'CPU 1')
+(483000000, 'T1_70', 'CPU 1')
+(486000000, 'T3_25', 'CPU 1')
+(490000000, 'T1_71', 'CPU 1')
+(493000000, 'T2_42', 'CPU 1')
+(496000000, 'T3_25', 'CPU 1')
+(497000000, 'T1_72', 'CPU 1')
+(500000000, 'T3_26', 'CPU 1')
+(504000000, 'T1_73', 'CPU 1')
+(507000000, 'T3_26', 'CPU 1')
+(508000000, 'T2_43', 'CPU 1')
+(511000000, 'T1_74', 'CPU 1')
+(516000000, 'T2_44', 'CPU 1')
+(518000000, 'T1_75', 'CPU 1')
+(521000000, 'T2_44', 'CPU 1')
+(522000000, 'T3_27', 'CPU 1')
+(525000000, 'T1_76', 'CPU 1')
+(528000000, 'T3_27', 'CPU 1')
+(530000000, 'T2_45', 'CPU 1')
+(532000000, 'T1_77', 'CPU 1')
+(535000000, 'T2_45', 'CPU 1')
+(539000000, 'T1_78', 'CPU 1')
+(542000000, 'T3_28', 'CPU 1')
+(546000000, 'T2_46', 'CPU 1')
+(549000000, 'T1_79', 'CPU 1')
+(552000000, 'T3_28', 'CPU 1')
+(553000000, 'T1_80', 'CPU 1')
+(556000000, 'T2_47', 'CPU 1')
+(560000000, 'T3_29', 'CPU 1')
+(560000000, 'T1_81', 'CPU 1')
+(563000000, 'T3_29', 'CPU 1')
+(564000000, 'T2_48', 'CPU 1')
+(567000000, 'T3_29', 'CPU 1')
+(567000000, 'T1_82', 'CPU 1')
+(570000000, 'T3_29', 'CPU 1')
+(574000000, 'T1_83', 'CPU 1')
+(577000000, 'T2_49', 'CPU 1')
+(580000000, 'T3_30', 'CPU 1')
+(581000000, 'T1_84', 'CPU 1')
+(584000000, 'T3_30', 'CPU 1')
+(588000000, 'T1_85', 'CPU 1')
+(591000000, 'T2_50', 'CPU 1')
+(595000000, 'T1_86', 'CPU 1')
+(600000000, 'T2_51', 'CPU 1')
+(602000000, 'T1_87', 'CPU 1')
+(605000000, 'T2_51', 'CPU 1')
+(606000000, 'T3_31', 'CPU 1')
+(609000000, 'T1_88', 'CPU 1')
+(612000000, 'T3_31', 'CPU 1')
+(614000000, 'T2_52', 'CPU 1')
+(616000000, 'T1_89', 'CPU 1')
+(619000000, 'T2_52', 'CPU 1')
+(620000000, 'T3_32', 'CPU 1')
+(623000000, 'T1_90', 'CPU 1')
+(626000000, 'T3_32', 'CPU 1')
+(628000000, 'T2_53', 'CPU 1')
+(631000000, 'T1_91', 'CPU 1')
+(636000000, 'T2_54', 'CPU 1')
+(637000000, 'T1_92', 'CPU 1')
+(640000000, 'T2_54', 'CPU 1')
+(642000000, 'T3_33', 'CPU 1')
+(644000000, 'T1_93', 'CPU 1')
+(647000000, 'T3_33', 'CPU 1')
+(650000000, 'T2_55', 'CPU 1')
+(651000000, 'T1_94', 'CPU 1')
+(654000000, 'T2_55', 'CPU 1')
+(658000000, 'T1_95', 'CPU 1')
+(661000000, 'T2_56', 'CPU 1')
+(664000000, 'T3_34', 'CPU 1')
+(665000000, 'T1_96', 'CPU 1')
+(668000000, 'T3_34', 'CPU 1')
+(672000000, 'T2_57', 'CPU 1')
+(672000000, 'T1_97', 'CPU 1')
+(675000000, 'T2_57', 'CPU 1')
+(679000000, 'T1_98', 'CPU 1')
+(682000000, 'T3_35', 'CPU 1')
+(684000000, 'T2_58', 'CPU 1')
+(686000000, 'T1_99', 'CPU 1')
+(689000000, 'T2_58', 'CPU 1')
+(690000000, 'T3_35', 'CPU 1')
+(693000000, 'T1_100', 'CPU 1')
+(696000000, 'T2_59', 'CPU 1')
+(700000000, 'T3_36', 'CPU 1')
+(700000000, 'T1_101', 'CPU 1')
+(703000000, 'T3_36', 'CPU 1')
+(707000000, 'T1_102', 'CPU 1')
+(710000000, 'T2_60', 'CPU 1')
+(713000000, 'T3_36', 'CPU 1')
+(714000000, 'T1_103', 'CPU 1')
+(720000000, 'T2_61', 'CPU 1')
+(723000000, 'T3_37', 'CPU 1')
+(728000000, 'T1_105', 'CPU 1')
+(732000000, 'T2_62', 'CPU 1')
+(735000000, 'T1_106', 'CPU 1')
+(740000000, 'T3_38', 'CPU 1')
+(742000000, 'T1_107', 'CPU 1')
+(745000000, 'T2_63', 'CPU 1')
+(748000000, 'T3_38', 'CPU 1')
+(749000000, 'T1_108', 'CPU 1')
+(752000000, 'T3_38', 'CPU 1')
+(756000000, 'T1_109', 'CPU 1')
+(759000000, 'T2_64', 'CPU 1')
+(762000000, 'T3_39', 'CPU 1')
+(763000000, 'T1_110', 'CPU 1')
+(766000000, 'T3_39', 'CPU 1')
+(770000000, 'T1_111', 'CPU 1')
+(773000000, 'T2_65', 'CPU 1')
+(777000000, 'T1_112', 'CPU 1')
+(780000000, 'T3_40', 'CPU 1')
+(780000000, 'T2_66', 'CPU 1')
+(783000000, 'T3_40', 'CPU 1')
+(784000000, 'T1_113', 'CPU 1')
+(787000000, 'T3_40', 'CPU 1')
+(791000000, 'T1_114', 'CPU 1')
+(794000000, 'T2_67', 'CPU 1')
+(798000000, 'T1_115', 'CPU 1')
+(801000000, 'T3_41', 'CPU 1')
+(804000000, 'T2_68', 'CPU 1')
+(805000000, 'T1_116', 'CPU 1')
+(808000000, 'T3_41', 'CPU 1')
+(810000000, 'T2_68', 'CPU 1')
+(812000000, 'T1_117', 'CPU 1')
+(816000000, 'T2_69', 'CPU 1')
+(819000000, 'T1_118', 'CPU 1')
+(822000000, 'T3_42', 'CPU 1')
+(826000000, 'T1_119', 'CPU 1')
+(829000000, 'T3_42', 'CPU 1')
+(830000000, 'T2_70', 'CPU 1')
+(833000000, 'T1_120', 'CPU 1')
+(840000000, 'T2_71', 'CPU 1')
+(840000000, 'T1_121', 'CPU 1')
+(843000000, 'T3_43', 'CPU 1')
+(847000000, 'T2_71', 'CPU 1')
+(850000000, 'T1_122', 'CPU 1')
+(853000000, 'T3_43', 'CPU 1')
+(854000000, 'T1_123', 'CPU 1')
+(857000000, 'T2_72', 'CPU 1')
+(860000000, 'T3_44', 'CPU 1')
+(861000000, 'T1_124', 'CPU 1')
+(864000000, 'T2_73', 'CPU 1')
+(867000000, 'T3_44', 'CPU 1')
+(868000000, 'T1_125', 'CPU 1')
+(871000000, 'T3_44', 'CPU 1')
+(875000000, 'T1_126', 'CPU 1')
+(878000000, 'T2_74', 'CPU 1')
+(881000000, 'T3_45', 'CPU 1')
+(882000000, 'T1_127', 'CPU 1')
+(885000000, 'T3_45', 'CPU 1')
+(889000000, 'T2_75', 'CPU 1')
+(889000000, 'T1_128', 'CPU 1')
+(892000000, 'T2_75', 'CPU 1')
+(896000000, 'T1_129', 'CPU 1')
+(900000000, 'T3_46', 'CPU 1')
+(900000000, 'T2_76', 'CPU 1')
+(903000000, 'T3_46', 'CPU 1')
+(903000000, 'T1_130', 'CPU 1')
+(906000000, 'T3_46', 'CPU 1')
+(910000000, 'T1_131', 'CPU 1')
+(913000000, 'T2_77', 'CPU 1')
+(916000000, 'T3_46', 'CPU 1')
+(917000000, 'T1_132', 'CPU 1')
+(920000000, 'T3_47', 'CPU 1')
+(924000000, 'T1_133', 'CPU 1')
+(927000000, 'T3_47', 'CPU 1')
+(928000000, 'T2_78', 'CPU 1')
+(931000000, 'T1_134', 'CPU 1')
+(936000000, 'T2_79', 'CPU 1')
+(938000000, 'T1_135', 'CPU 1')
+(941000000, 'T3_48', 'CPU 1')
+(945000000, 'T1_136', 'CPU 1')
+(948000000, 'T3_48', 'CPU 1')
+(949000000, 'T2_80', 'CPU 1')
+(952000000, 'T1_137', 'CPU 1')
+(959000000, 'T1_138', 'CPU 1')
+(962000000, 'T3_49', 'CPU 1')
+(966000000, 'T1_139', 'CPU 1')
+(969000000, 'T3_49', 'CPU 1')
+(970000000, 'T2_81', 'CPU 1')
+(972000000, 'T2_82', 'CPU 1')
+(973000000, 'T1_140', 'CPU 1')
+(976000000, 'T2_82', 'CPU 1')
+(980000000, 'T1_141', 'CPU 1')
+(983000000, 'T3_50', 'CPU 1')
+(984000000, 'T2_83', 'CPU 1')
+(987000000, 'T1_142', 'CPU 1')
+(990000000, 'T3_50', 'CPU 1')
+(994000000, 'T1_143', 'CPU 1')
+(997000000, 'T2_84', 'CPU 1')
+(1000000000, 'T3_51', 'CPU 1')
+[0, ('T1_1 Activated.', True)]
+[0, ('T2_1 Activated.', True)]
+[0, ('T3_1 Activated.', True)]
+[0, ('T1_1 Executing on CPU 1', True)]
+[3000000, ('T1_1 Terminated.', True)]
+[3000000, ('T2_1 Executing on CPU 1', True)]
+[6000000, ('T2_1 Terminated.', True)]
+[6000000, ('T3_1 Executing on CPU 1', True)]
+[7000000, ('T1_2 Activated.', True)]
+[7000000, ('T3_1 Preempted! ret: 4000000', True)]
+[7000000, ('T1_2 Executing on CPU 1', True)]
+[10000000, ('T1_2 Terminated.', True)]
+[10000000, ('T3_1 Executing on CPU 1', True)]
+[12000000, ('T2_2 Activated.', True)]
+[12000000, ('T3_1 Preempted! ret: 2000000', True)]
+[12000000, ('T3_1 Executing on CPU 1', True)]
+[14000000, ('T1_3 Activated.', True)]
+[14000000, ('T3_1 Terminated.', True)]
+[14000000, ('T1_3 Executing on CPU 1', True)]
+[17000000, ('T1_3 Terminated.', True)]
+[17000000, ('T2_2 Executing on CPU 1', True)]
+[20000000, ('T3_2 Activated.', True)]
+[20000000, ('T2_2 Terminated.', True)]
+[20000000, ('T3_2 Executing on CPU 1', True)]
+[21000000, ('T1_4 Activated.', True)]
+[21000000, ('T3_2 Preempted! ret: 4000000', True)]
+[21000000, ('T1_4 Executing on CPU 1', True)]
+[24000000, ('T2_3 Activated.', True)]
+[24000000, ('T1_4 Terminated.', True)]
+[24000000, ('T2_3 Executing on CPU 1', True)]
+[27000000, ('T2_3 Terminated.', True)]
+[27000000, ('T3_2 Executing on CPU 1', True)]
+[28000000, ('T1_5 Activated.', True)]
+[28000000, ('T3_2 Preempted! ret: 3000000', True)]
+[28000000, ('T1_5 Executing on CPU 1', True)]
+[31000000, ('T1_5 Terminated.', True)]
+[31000000, ('T3_2 Executing on CPU 1', True)]
+[34000000, ('T3_2 Terminated.', True)]
+[35000000, ('T1_6 Activated.', True)]
+[35000000, ('T1_6 Executing on CPU 1', True)]
+[36000000, ('T2_4 Activated.', True)]
+[36000000, ('T1_6 Preempted! ret: 2000000', True)]
+[36000000, ('T1_6 Executing on CPU 1', True)]
+[38000000, ('T1_6 Terminated.', True)]
+[38000000, ('T2_4 Executing on CPU 1', True)]
+[40000000, ('T3_3 Activated.', True)]
+[40000000, ('T2_4 Preempted! ret: 1000000', True)]
+[40000000, ('T2_4 Executing on CPU 1', True)]
+[41000000, ('T2_4 Terminated.', True)]
+[41000000, ('T3_3 Executing on CPU 1', True)]
+[42000000, ('T1_7 Activated.', True)]
+[42000000, ('T3_3 Preempted! ret: 4000000', True)]
+[42000000, ('T1_7 Executing on CPU 1', True)]
+[45000000, ('T1_7 Terminated.', True)]
+[45000000, ('T3_3 Executing on CPU 1', True)]
+[48000000, ('T2_5 Activated.', True)]
+[48000000, ('T3_3 Preempted! ret: 1000000', True)]
+[48000000, ('T3_3 Executing on CPU 1', True)]
+[49000000, ('T1_8 Activated.', True)]
+[49000000, ('T3_3 Terminated.', True)]
+[49000000, ('T1_8 Executing on CPU 1', True)]
+[52000000, ('T1_8 Terminated.', True)]
+[52000000, ('T2_5 Executing on CPU 1', True)]
+[55000000, ('T2_5 Terminated.', True)]
+[56000000, ('T1_9 Activated.', True)]
+[56000000, ('T1_9 Executing on CPU 1', True)]
+[59000000, ('T1_9 Terminated.', True)]
+[60000000, ('T3_4 Activated.', True)]
+[60000000, ('T2_6 Activated.', True)]
+[60000000, ('T2_6 Executing on CPU 1', True)]
+[63000000, ('T1_10 Activated.', True)]
+[63000000, ('T2_6 Terminated.', True)]
+[63000000, ('T1_10 Executing on CPU 1', True)]
+[66000000, ('T1_10 Terminated.', True)]
+[66000000, ('T3_4 Executing on CPU 1', True)]
+[70000000, ('T1_11 Activated.', True)]
+[70000000, ('T3_4 Preempted! ret: 1000000', True)]
+[70000000, ('T1_11 Executing on CPU 1', True)]
+[72000000, ('T2_7 Activated.', True)]
+[72000000, ('T1_11 Preempted! ret: 1000000', True)]
+[72000000, ('T1_11 Executing on CPU 1', True)]
+[73000000, ('T1_11 Terminated.', True)]
+[73000000, ('T2_7 Executing on CPU 1', True)]
+[76000000, ('T2_7 Terminated.', True)]
+[76000000, ('T3_4 Executing on CPU 1', True)]
+[77000000, ('T1_12 Activated.', True)]
+[77000000, ('T3_4 Terminated.', True)]
+[77000000, ('T1_12 Executing on CPU 1', True)]
+[80000000, ('T3_5 Activated.', True)]
+[80000000, ('T1_12 Terminated.', True)]
+[80000000, ('T3_5 Executing on CPU 1', True)]
+[84000000, ('T2_8 Activated.', True)]
+[84000000, ('T1_13 Activated.', True)]
+[84000000, ('T3_5 Preempted! ret: 1000000', True)]
+[84000000, ('T1_13 Executing on CPU 1', True)]
+[87000000, ('T1_13 Terminated.', True)]
+[87000000, ('T3_5 Executing on CPU 1', True)]
+[88000000, ('T3_5 Terminated.', True)]
+[88000000, ('T2_8 Executing on CPU 1', True)]
+[91000000, ('T1_14 Activated.', True)]
+[91000000, ('T2_8 Terminated.', True)]
+[91000000, ('T1_14 Executing on CPU 1', True)]
+[94000000, ('T1_14 Terminated.', True)]
+[96000000, ('T2_9 Activated.', True)]
+[96000000, ('T2_9 Executing on CPU 1', True)]
+[98000000, ('T1_15 Activated.', True)]
+[98000000, ('T2_9 Preempted! ret: 1000000', True)]
+[98000000, ('T1_15 Executing on CPU 1', True)]
+[100000000, ('T3_6 Activated.', True)]
+[100000000, ('T1_15 Preempted! ret: 1000000', True)]
+[100000000, ('T1_15 Executing on CPU 1', True)]
+[101000000, ('T1_15 Terminated.', True)]
+[101000000, ('T3_6 Executing on CPU 1', True)]
+[105000000, ('T1_16 Activated.', True)]
+[105000000, ('T3_6 Preempted! ret: 1000000', True)]
+[105000000, ('T2_9 Executing on CPU 1', True)]
+[106000000, ('T2_9 Terminated.', True)]
+[106000000, ('T1_16 Executing on CPU 1', True)]
+[108000000, ('T2_10 Activated.', True)]
+[108000000, ('T1_16 Preempted! ret: 1000000', True)]
+[108000000, ('T1_16 Executing on CPU 1', True)]
+[109000000, ('T1_16 Terminated.', True)]
+[109000000, ('T2_10 Executing on CPU 1', True)]
+[112000000, ('T1_17 Activated.', True)]
+[112000000, ('T2_10 Terminated.', True)]
+[112000000, ('T1_17 Executing on CPU 1', True)]
+[115000000, ('T1_17 Terminated.', True)]
+[115000000, ('T3_6 Executing on CPU 1', True)]
+[116000000, ('T3_6 Terminated.', True)]
+[119000000, ('T1_18 Activated.', True)]
+[119000000, ('T1_18 Executing on CPU 1', True)]
+[120000000, ('T3_7 Activated.', True)]
+[120000000, ('T2_11 Activated.', True)]
+[120000000, ('T1_18 Preempted! ret: 2000000', True)]
+[120000000, ('T1_18 Executing on CPU 1', True)]
+[122000000, ('T1_18 Terminated.', True)]
+[122000000, ('T3_7 Executing on CPU 1', True)]
+[126000000, ('T1_19 Activated.', True)]
+[126000000, ('T3_7 Preempted! ret: 1000000', True)]
+[126000000, ('T2_11 Executing on CPU 1', True)]
+[129000000, ('T2_11 Terminated.', True)]
+[129000000, ('T3_7 Executing on CPU 1', True)]
+[130000000, ('T3_7 Terminated.', True)]
+[130000000, ('T1_19 Executing on CPU 1', True)]
+[132000000, ('T2_12 Activated.', True)]
+[132000000, ('T1_19 Preempted! ret: 1000000', True)]
+[132000000, ('T1_19 Executing on CPU 1', True)]
+[133000000, ('T1_20 Activated.', True)]
+[133000000, ('T1_19 Terminated.', True)]
+[133000000, ('T1_20 Executing on CPU 1', True)]
+[136000000, ('T1_20 Terminated.', True)]
+[136000000, ('T2_12 Executing on CPU 1', True)]
+[139000000, ('T2_12 Terminated.', True)]
+[140000000, ('T3_8 Activated.', True)]
+[140000000, ('T1_21 Activated.', True)]
+[140000000, ('T1_21 Executing on CPU 1', True)]
+[143000000, ('T1_21 Terminated.', True)]
+[143000000, ('T3_8 Executing on CPU 1', True)]
+[144000000, ('T2_13 Activated.', True)]
+[144000000, ('T3_8 Preempted! ret: 4000000', True)]
+[144000000, ('T2_13 Executing on CPU 1', True)]
+[147000000, ('T1_22 Activated.', True)]
+[147000000, ('T2_13 Terminated.', True)]
+[147000000, ('T1_22 Executing on CPU 1', True)]
+[150000000, ('T1_22 Terminated.', True)]
+[150000000, ('T3_8 Executing on CPU 1', True)]
+[154000000, ('T1_23 Activated.', True)]
+[154000000, ('T3_8 Terminated.', True)]
+[154000000, ('T1_23 Executing on CPU 1', True)]
+[156000000, ('T2_14 Activated.', True)]
+[156000000, ('T1_23 Preempted! ret: 1000000', True)]
+[156000000, ('T1_23 Executing on CPU 1', True)]
+[157000000, ('T1_23 Terminated.', True)]
+[157000000, ('T2_14 Executing on CPU 1', True)]
+[160000000, ('T3_9 Activated.', True)]
+[160000000, ('T2_14 Terminated.', True)]
+[160000000, ('T3_9 Executing on CPU 1', True)]
+[161000000, ('T1_24 Activated.', True)]
+[161000000, ('T3_9 Preempted! ret: 4000000', True)]
+[161000000, ('T1_24 Executing on CPU 1', True)]
+[164000000, ('T1_24 Terminated.', True)]
+[164000000, ('T3_9 Executing on CPU 1', True)]
+[168000000, ('T2_15 Activated.', True)]
+[168000000, ('T1_25 Activated.', True)]
+[168000000, ('T3_9 Terminated.', True)]
+[168000000, ('T1_25 Executing on CPU 1', True)]
+[171000000, ('T1_25 Terminated.', True)]
+[171000000, ('T2_15 Executing on CPU 1', True)]
+[174000000, ('T2_15 Terminated.', True)]
+[175000000, ('T1_26 Activated.', True)]
+[175000000, ('T1_26 Executing on CPU 1', True)]
+[178000000, ('T1_26 Terminated.', True)]
+[180000000, ('T3_10 Activated.', True)]
+[180000000, ('T2_16 Activated.', True)]
+[180000000, ('T2_16 Executing on CPU 1', True)]
+[182000000, ('T1_27 Activated.', True)]
+[182000000, ('T2_16 Preempted! ret: 1000000', True)]
+[182000000, ('T2_16 Executing on CPU 1', True)]
+[183000000, ('T2_16 Terminated.', True)]
+[183000000, ('T1_27 Executing on CPU 1', True)]
+[186000000, ('T1_27 Terminated.', True)]
+[186000000, ('T3_10 Executing on CPU 1', True)]
+[189000000, ('T1_28 Activated.', True)]
+[189000000, ('T3_10 Preempted! ret: 2000000', True)]
+[189000000, ('T1_28 Executing on CPU 1', True)]
+[192000000, ('T2_17 Activated.', True)]
+[192000000, ('T1_28 Terminated.', True)]
+[192000000, ('T3_10 Executing on CPU 1', True)]
+[194000000, ('T3_10 Terminated.', True)]
+[194000000, ('T2_17 Executing on CPU 1', True)]
+[196000000, ('T1_29 Activated.', True)]
+[196000000, ('T2_17 Preempted! ret: 1000000', True)]
+[196000000, ('T1_29 Executing on CPU 1', True)]
+[199000000, ('T1_29 Terminated.', True)]
+[199000000, ('T2_17 Executing on CPU 1', True)]
+[200000000, ('T3_11 Activated.', True)]
+[200000000, ('T2_17 Terminated.', True)]
+[200000000, ('T3_11 Executing on CPU 1', True)]
+[203000000, ('T1_30 Activated.', True)]
+[203000000, ('T3_11 Preempted! ret: 2000000', True)]
+[203000000, ('T1_30 Executing on CPU 1', True)]
+[204000000, ('T2_18 Activated.', True)]
+[204000000, ('T1_30 Preempted! ret: 2000000', True)]
+[204000000, ('T1_30 Executing on CPU 1', True)]
+[206000000, ('T1_30 Terminated.', True)]
+[206000000, ('T3_11 Executing on CPU 1', True)]
+[208000000, ('T3_11 Terminated.', True)]
+[208000000, ('T2_18 Executing on CPU 1', True)]
+[210000000, ('T1_31 Activated.', True)]
+[210000000, ('T2_18 Preempted! ret: 1000000', True)]
+[210000000, ('T2_18 Executing on CPU 1', True)]
+[211000000, ('T2_18 Terminated.', True)]
+[211000000, ('T1_31 Executing on CPU 1', True)]
+[214000000, ('T1_31 Terminated.', True)]
+[216000000, ('T2_19 Activated.', True)]
+[216000000, ('T2_19 Executing on CPU 1', True)]
+[217000000, ('T1_32 Activated.', True)]
+[217000000, ('T2_19 Preempted! ret: 2000000', True)]
+[217000000, ('T1_32 Executing on CPU 1', True)]
+[220000000, ('T3_12 Activated.', True)]
+[220000000, ('T1_32 Terminated.', True)]
+[220000000, ('T2_19 Executing on CPU 1', True)]
+[222000000, ('T2_19 Terminated.', True)]
+[222000000, ('T3_12 Executing on CPU 1', True)]
+[224000000, ('T1_33 Activated.', True)]
+[224000000, ('T3_12 Preempted! ret: 3000000', True)]
+[224000000, ('T1_33 Executing on CPU 1', True)]
+[227000000, ('T1_33 Terminated.', True)]
+[227000000, ('T3_12 Executing on CPU 1', True)]
+[228000000, ('T2_20 Activated.', True)]
+[228000000, ('T3_12 Preempted! ret: 2000000', True)]
+[228000000, ('T3_12 Executing on CPU 1', True)]
+[230000000, ('T3_12 Terminated.', True)]
+[230000000, ('T2_20 Executing on CPU 1', True)]
+[231000000, ('T1_34 Activated.', True)]
+[231000000, ('T2_20 Preempted! ret: 2000000', True)]
+[231000000, ('T1_34 Executing on CPU 1', True)]
+[234000000, ('T1_34 Terminated.', True)]
+[234000000, ('T2_20 Executing on CPU 1', True)]
+[236000000, ('T2_20 Terminated.', True)]
+[238000000, ('T1_35 Activated.', True)]
+[238000000, ('T1_35 Executing on CPU 1', True)]
+[240000000, ('T3_13 Activated.', True)]
+[240000000, ('T2_21 Activated.', True)]
+[240000000, ('T1_35 Preempted! ret: 1000000', True)]
+[240000000, ('T1_35 Executing on CPU 1', True)]
+[241000000, ('T1_35 Terminated.', True)]
+[241000000, ('T3_13 Executing on CPU 1', True)]
+[245000000, ('T1_36 Activated.', True)]
+[245000000, ('T3_13 Preempted! ret: 1000000', True)]
+[245000000, ('T2_21 Executing on CPU 1', True)]
+[248000000, ('T2_21 Terminated.', True)]
+[248000000, ('T1_36 Executing on CPU 1', True)]
+[251000000, ('T1_36 Terminated.', True)]
+[251000000, ('T3_13 Executing on CPU 1', True)]
+[252000000, ('T2_22 Activated.', True)]
+[252000000, ('T1_37 Activated.', True)]
+[252000000, ('T3_13 Terminated.', True)]
+[252000000, ('T1_37 Executing on CPU 1', True)]
+[255000000, ('T1_37 Terminated.', True)]
+[255000000, ('T2_22 Executing on CPU 1', True)]
+[258000000, ('T2_22 Terminated.', True)]
+[259000000, ('T1_38 Activated.', True)]
+[259000000, ('T1_38 Executing on CPU 1', True)]
+[260000000, ('T3_14 Activated.', True)]
+[260000000, ('T1_38 Preempted! ret: 2000000', True)]
+[260000000, ('T1_38 Executing on CPU 1', True)]
+[262000000, ('T1_38 Terminated.', True)]
+[262000000, ('T3_14 Executing on CPU 1', True)]
+[264000000, ('T2_23 Activated.', True)]
+[264000000, ('T3_14 Preempted! ret: 3000000', True)]
+[264000000, ('T2_23 Executing on CPU 1', True)]
+[266000000, ('T1_39 Activated.', True)]
+[266000000, ('T2_23 Preempted! ret: 1000000', True)]
+[266000000, ('T2_23 Executing on CPU 1', True)]
+[267000000, ('T2_23 Terminated.', True)]
+[267000000, ('T3_14 Executing on CPU 1', True)]
+[270000000, ('T3_14 Terminated.', True)]
+[270000000, ('T1_39 Executing on CPU 1', True)]
+[273000000, ('T1_40 Activated.', True)]
+[273000000, ('T1_39 Terminated.', True)]
+[273000000, ('T1_40 Executing on CPU 1', True)]
+[276000000, ('T2_24 Activated.', True)]
+[276000000, ('T1_40 Terminated.', True)]
+[276000000, ('T2_24 Executing on CPU 1', True)]
+[279000000, ('T2_24 Terminated.', True)]
+[280000000, ('T3_15 Activated.', True)]
+[280000000, ('T1_41 Activated.', True)]
+[280000000, ('T1_41 Executing on CPU 1', True)]
+[283000000, ('T1_41 Terminated.', True)]
+[283000000, ('T3_15 Executing on CPU 1', True)]
+[287000000, ('T1_42 Activated.', True)]
+[287000000, ('T3_15 Preempted! ret: 1000000', True)]
+[287000000, ('T1_42 Executing on CPU 1', True)]
+[288000000, ('T2_25 Activated.', True)]
+[288000000, ('T1_42 Preempted! ret: 2000000', True)]
+[288000000, ('T1_42 Executing on CPU 1', True)]
+[290000000, ('T1_42 Terminated.', True)]
+[290000000, ('T2_25 Executing on CPU 1', True)]
+[293000000, ('T2_25 Terminated.', True)]
+[293000000, ('T3_15 Executing on CPU 1', True)]
+[294000000, ('T1_43 Activated.', True)]
+[294000000, ('T3_15 Terminated.', True)]
+[294000000, ('T1_43 Executing on CPU 1', True)]
+[297000000, ('T1_43 Terminated.', True)]
+[300000000, ('T3_16 Activated.', True)]
+[300000000, ('T2_26 Activated.', True)]
+[300000000, ('T2_26 Executing on CPU 1', True)]
+[301000000, ('T1_44 Activated.', True)]
+[301000000, ('T2_26 Preempted! ret: 2000000', True)]
+[301000000, ('T1_44 Executing on CPU 1', True)]
+[304000000, ('T1_44 Terminated.', True)]
+[304000000, ('T2_26 Executing on CPU 1', True)]
+[306000000, ('T2_26 Terminated.', True)]
+[306000000, ('T3_16 Executing on CPU 1', True)]
+[308000000, ('T1_45 Activated.', True)]
+[308000000, ('T3_16 Preempted! ret: 3000000', True)]
+[308000000, ('T1_45 Executing on CPU 1', True)]
+[311000000, ('T1_45 Terminated.', True)]
+[311000000, ('T3_16 Executing on CPU 1', True)]
+[312000000, ('T2_27 Activated.', True)]
+[312000000, ('T3_16 Preempted! ret: 2000000', True)]
+[312000000, ('T3_16 Executing on CPU 1', True)]
+[314000000, ('T3_16 Terminated.', True)]
+[314000000, ('T2_27 Executing on CPU 1', True)]
+[315000000, ('T1_46 Activated.', True)]
+[315000000, ('T2_27 Preempted! ret: 2000000', True)]
+[315000000, ('T1_46 Executing on CPU 1', True)]
+[318000000, ('T1_46 Terminated.', True)]
+[318000000, ('T2_27 Executing on CPU 1', True)]
+[320000000, ('T3_17 Activated.', True)]
+[320000000, ('T2_27 Terminated.', True)]
+[320000000, ('T3_17 Executing on CPU 1', True)]
+[322000000, ('T1_47 Activated.', True)]
+[322000000, ('T3_17 Preempted! ret: 3000000', True)]
+[322000000, ('T1_47 Executing on CPU 1', True)]
+[324000000, ('T2_28 Activated.', True)]
+[324000000, ('T1_47 Preempted! ret: 1000000', True)]
+[324000000, ('T1_47 Executing on CPU 1', True)]
+[325000000, ('T1_47 Terminated.', True)]
+[325000000, ('T2_28 Executing on CPU 1', True)]
+[328000000, ('T2_28 Terminated.', True)]
+[328000000, ('T3_17 Executing on CPU 1', True)]
+[329000000, ('T1_48 Activated.', True)]
+[329000000, ('T3_17 Preempted! ret: 2000000', True)]
+[329000000, ('T1_48 Executing on CPU 1', True)]
+[332000000, ('T1_48 Terminated.', True)]
+[332000000, ('T3_17 Executing on CPU 1', True)]
+[334000000, ('T3_17 Terminated.', True)]
+[336000000, ('T2_29 Activated.', True)]
+[336000000, ('T1_49 Activated.', True)]
+[336000000, ('T1_49 Executing on CPU 1', True)]
+[339000000, ('T1_49 Terminated.', True)]
+[339000000, ('T2_29 Executing on CPU 1', True)]
+[340000000, ('T3_18 Activated.', True)]
+[340000000, ('T2_29 Preempted! ret: 2000000', True)]
+[340000000, ('T2_29 Executing on CPU 1', True)]
+[342000000, ('T2_29 Terminated.', True)]
+[342000000, ('T3_18 Executing on CPU 1', True)]
+[343000000, ('T1_50 Activated.', True)]
+[343000000, ('T3_18 Preempted! ret: 4000000', True)]
+[343000000, ('T1_50 Executing on CPU 1', True)]
+[346000000, ('T1_50 Terminated.', True)]
+[346000000, ('T3_18 Executing on CPU 1', True)]
+[348000000, ('T2_30 Activated.', True)]
+[348000000, ('T3_18 Preempted! ret: 2000000', True)]
+[348000000, ('T3_18 Executing on CPU 1', True)]
+[350000000, ('T1_51 Activated.', True)]
+[350000000, ('T3_18 Terminated.', True)]
+[350000000, ('T1_51 Executing on CPU 1', True)]
+[353000000, ('T1_51 Terminated.', True)]
+[353000000, ('T2_30 Executing on CPU 1', True)]
+[356000000, ('T2_30 Terminated.', True)]
+[357000000, ('T1_52 Activated.', True)]
+[357000000, ('T1_52 Executing on CPU 1', True)]
+[360000000, ('T3_19 Activated.', True)]
+[360000000, ('T2_31 Activated.', True)]
+[360000000, ('T1_52 Terminated.', True)]
+[360000000, ('T2_31 Executing on CPU 1', True)]
+[363000000, ('T2_31 Terminated.', True)]
+[363000000, ('T3_19 Executing on CPU 1', True)]
+[364000000, ('T1_53 Activated.', True)]
+[364000000, ('T3_19 Preempted! ret: 4000000', True)]
+[364000000, ('T1_53 Executing on CPU 1', True)]
+[367000000, ('T1_53 Terminated.', True)]
+[367000000, ('T3_19 Executing on CPU 1', True)]
+[371000000, ('T1_54 Activated.', True)]
+[371000000, ('T3_19 Terminated.', True)]
+[371000000, ('T1_54 Executing on CPU 1', True)]
+[372000000, ('T2_32 Activated.', True)]
+[372000000, ('T1_54 Preempted! ret: 2000000', True)]
+[372000000, ('T1_54 Executing on CPU 1', True)]
+[374000000, ('T1_54 Terminated.', True)]
+[374000000, ('T2_32 Executing on CPU 1', True)]
+[377000000, ('T2_32 Terminated.', True)]
+[378000000, ('T1_55 Activated.', True)]
+[378000000, ('T1_55 Executing on CPU 1', True)]
+[380000000, ('T3_20 Activated.', True)]
+[380000000, ('T1_55 Preempted! ret: 1000000', True)]
+[380000000, ('T1_55 Executing on CPU 1', True)]
+[381000000, ('T1_55 Terminated.', True)]
+[381000000, ('T3_20 Executing on CPU 1', True)]
+[384000000, ('T2_33 Activated.', True)]
+[384000000, ('T3_20 Preempted! ret: 2000000', True)]
+[384000000, ('T2_33 Executing on CPU 1', True)]
+[385000000, ('T1_56 Activated.', True)]
+[385000000, ('T2_33 Preempted! ret: 2000000', True)]
+[385000000, ('T2_33 Executing on CPU 1', True)]
+[387000000, ('T2_33 Terminated.', True)]
+[387000000, ('T1_56 Executing on CPU 1', True)]
+[390000000, ('T1_56 Terminated.', True)]
+[390000000, ('T3_20 Executing on CPU 1', True)]
+[392000000, ('T1_57 Activated.', True)]
+[392000000, ('T3_20 Terminated.', True)]
+[392000000, ('T1_57 Executing on CPU 1', True)]
+[395000000, ('T1_57 Terminated.', True)]
+[396000000, ('T2_34 Activated.', True)]
+[396000000, ('T2_34 Executing on CPU 1', True)]
+[399000000, ('T1_58 Activated.', True)]
+[399000000, ('T2_34 Terminated.', True)]
+[399000000, ('T1_58 Executing on CPU 1', True)]
+[400000000, ('T3_21 Activated.', True)]
+[400000000, ('T1_58 Preempted! ret: 2000000', True)]
+[400000000, ('T1_58 Executing on CPU 1', True)]
+[402000000, ('T1_58 Terminated.', True)]
+[402000000, ('T3_21 Executing on CPU 1', True)]
+[406000000, ('T1_59 Activated.', True)]
+[406000000, ('T3_21 Preempted! ret: 1000000', True)]
+[406000000, ('T1_59 Executing on CPU 1', True)]
+[408000000, ('T2_35 Activated.', True)]
+[408000000, ('T1_59 Preempted! ret: 1000000', True)]
+[408000000, ('T1_59 Executing on CPU 1', True)]
+[409000000, ('T1_59 Terminated.', True)]
+[409000000, ('T2_35 Executing on CPU 1', True)]
+[412000000, ('T2_35 Terminated.', True)]
+[412000000, ('T3_21 Executing on CPU 1', True)]
+[413000000, ('T1_60 Activated.', True)]
+[413000000, ('T3_21 Terminated.', True)]
+[413000000, ('T1_60 Executing on CPU 1', True)]
+[416000000, ('T1_60 Terminated.', True)]
+[420000000, ('T3_22 Activated.', True)]
+[420000000, ('T2_36 Activated.', True)]
+[420000000, ('T1_61 Activated.', True)]
+[420000000, ('T1_61 Executing on CPU 1', True)]
+[423000000, ('T1_61 Terminated.', True)]
+[423000000, ('T3_22 Executing on CPU 1', True)]
+[427000000, ('T1_62 Activated.', True)]
+[427000000, ('T3_22 Preempted! ret: 1000000', True)]
+[427000000, ('T2_36 Executing on CPU 1', True)]
+[430000000, ('T2_36 Terminated.', True)]
+[430000000, ('T1_62 Executing on CPU 1', True)]
+[432000000, ('T2_37 Activated.', True)]
+[432000000, ('T1_62 Preempted! ret: 1000000', True)]
+[432000000, ('T1_62 Executing on CPU 1', True)]
+[433000000, ('T1_62 Terminated.', True)]
+[433000000, ('T2_37 Executing on CPU 1', True)]
+[434000000, ('T1_63 Activated.', True)]
+[434000000, ('T2_37 Preempted! ret: 2000000', True)]
+[434000000, ('T1_63 Executing on CPU 1', True)]
+[437000000, ('T1_63 Terminated.', True)]
+[437000000, ('T3_22 Executing on CPU 1', True)]
+[438000000, ('T3_22 Terminated.', True)]
+[438000000, ('T2_37 Executing on CPU 1', True)]
+[440000000, ('T3_23 Activated.', True)]
+[440000000, ('T2_37 Terminated.', True)]
+[440000000, ('T3_23 Executing on CPU 1', True)]
+[441000000, ('T1_64 Activated.', True)]
+[441000000, ('T3_23 Preempted! ret: 4000000', True)]
+[441000000, ('T1_64 Executing on CPU 1', True)]
+[444000000, ('T2_38 Activated.', True)]
+[444000000, ('T1_64 Terminated.', True)]
+[444000000, ('T2_38 Executing on CPU 1', True)]
+[447000000, ('T2_38 Terminated.', True)]
+[447000000, ('T3_23 Executing on CPU 1', True)]
+[448000000, ('T1_65 Activated.', True)]
+[448000000, ('T3_23 Preempted! ret: 3000000', True)]
+[448000000, ('T1_65 Executing on CPU 1', True)]
+[451000000, ('T1_65 Terminated.', True)]
+[451000000, ('T3_23 Executing on CPU 1', True)]
+[454000000, ('T3_23 Terminated.', True)]
+[455000000, ('T1_66 Activated.', True)]
+[455000000, ('T1_66 Executing on CPU 1', True)]
+[456000000, ('T2_39 Activated.', True)]
+[456000000, ('T1_66 Preempted! ret: 2000000', True)]
+[456000000, ('T1_66 Executing on CPU 1', True)]
+[458000000, ('T1_66 Terminated.', True)]
+[458000000, ('T2_39 Executing on CPU 1', True)]
+[460000000, ('T3_24 Activated.', True)]
+[460000000, ('T2_39 Preempted! ret: 1000000', True)]
+[460000000, ('T2_39 Executing on CPU 1', True)]
+[461000000, ('T2_39 Terminated.', True)]
+[461000000, ('T3_24 Executing on CPU 1', True)]
+[462000000, ('T1_67 Activated.', True)]
+[462000000, ('T3_24 Preempted! ret: 4000000', True)]
+[462000000, ('T1_67 Executing on CPU 1', True)]
+[465000000, ('T1_67 Terminated.', True)]
+[465000000, ('T3_24 Executing on CPU 1', True)]
+[468000000, ('T2_40 Activated.', True)]
+[468000000, ('T3_24 Preempted! ret: 1000000', True)]
+[468000000, ('T3_24 Executing on CPU 1', True)]
+[469000000, ('T1_68 Activated.', True)]
+[469000000, ('T3_24 Terminated.', True)]
+[469000000, ('T1_68 Executing on CPU 1', True)]
+[472000000, ('T1_68 Terminated.', True)]
+[472000000, ('T2_40 Executing on CPU 1', True)]
+[475000000, ('T2_40 Terminated.', True)]
+[476000000, ('T1_69 Activated.', True)]
+[476000000, ('T1_69 Executing on CPU 1', True)]
+[479000000, ('T1_69 Terminated.', True)]
+[480000000, ('T3_25 Activated.', True)]
+[480000000, ('T2_41 Activated.', True)]
+[480000000, ('T2_41 Executing on CPU 1', True)]
+[483000000, ('T1_70 Activated.', True)]
+[483000000, ('T2_41 Terminated.', True)]
+[483000000, ('T1_70 Executing on CPU 1', True)]
+[486000000, ('T1_70 Terminated.', True)]
+[486000000, ('T3_25 Executing on CPU 1', True)]
+[490000000, ('T1_71 Activated.', True)]
+[490000000, ('T3_25 Preempted! ret: 1000000', True)]
+[490000000, ('T1_71 Executing on CPU 1', True)]
+[492000000, ('T2_42 Activated.', True)]
+[492000000, ('T1_71 Preempted! ret: 1000000', True)]
+[492000000, ('T1_71 Executing on CPU 1', True)]
+[493000000, ('T1_71 Terminated.', True)]
+[493000000, ('T2_42 Executing on CPU 1', True)]
+[496000000, ('T2_42 Terminated.', True)]
+[496000000, ('T3_25 Executing on CPU 1', True)]
+[497000000, ('T1_72 Activated.', True)]
+[497000000, ('T3_25 Terminated.', True)]
+[497000000, ('T1_72 Executing on CPU 1', True)]
+[500000000, ('T3_26 Activated.', True)]
+[500000000, ('T1_72 Terminated.', True)]
+[500000000, ('T3_26 Executing on CPU 1', True)]
+[504000000, ('T2_43 Activated.', True)]
+[504000000, ('T1_73 Activated.', True)]
+[504000000, ('T3_26 Preempted! ret: 1000000', True)]
+[504000000, ('T1_73 Executing on CPU 1', True)]
+[507000000, ('T1_73 Terminated.', True)]
+[507000000, ('T3_26 Executing on CPU 1', True)]
+[508000000, ('T3_26 Terminated.', True)]
+[508000000, ('T2_43 Executing on CPU 1', True)]
+[511000000, ('T1_74 Activated.', True)]
+[511000000, ('T2_43 Terminated.', True)]
+[511000000, ('T1_74 Executing on CPU 1', True)]
+[514000000, ('T1_74 Terminated.', True)]
+[516000000, ('T2_44 Activated.', True)]
+[516000000, ('T2_44 Executing on CPU 1', True)]
+[518000000, ('T1_75 Activated.', True)]
+[518000000, ('T2_44 Preempted! ret: 1000000', True)]
+[518000000, ('T1_75 Executing on CPU 1', True)]
+[520000000, ('T3_27 Activated.', True)]
+[520000000, ('T1_75 Preempted! ret: 1000000', True)]
+[520000000, ('T1_75 Executing on CPU 1', True)]
+[521000000, ('T1_75 Terminated.', True)]
+[521000000, ('T2_44 Executing on CPU 1', True)]
+[522000000, ('T2_44 Terminated.', True)]
+[522000000, ('T3_27 Executing on CPU 1', True)]
+[525000000, ('T1_76 Activated.', True)]
+[525000000, ('T3_27 Preempted! ret: 2000000', True)]
+[525000000, ('T1_76 Executing on CPU 1', True)]
+[528000000, ('T2_45 Activated.', True)]
+[528000000, ('T1_76 Terminated.', True)]
+[528000000, ('T3_27 Executing on CPU 1', True)]
+[530000000, ('T3_27 Terminated.', True)]
+[530000000, ('T2_45 Executing on CPU 1', True)]
+[532000000, ('T1_77 Activated.', True)]
+[532000000, ('T2_45 Preempted! ret: 1000000', True)]
+[532000000, ('T1_77 Executing on CPU 1', True)]
+[535000000, ('T1_77 Terminated.', True)]
+[535000000, ('T2_45 Executing on CPU 1', True)]
+[536000000, ('T2_45 Terminated.', True)]
+[539000000, ('T1_78 Activated.', True)]
+[539000000, ('T1_78 Executing on CPU 1', True)]
+[540000000, ('T3_28 Activated.', True)]
+[540000000, ('T2_46 Activated.', True)]
+[540000000, ('T1_78 Preempted! ret: 2000000', True)]
+[540000000, ('T1_78 Executing on CPU 1', True)]
+[542000000, ('T1_78 Terminated.', True)]
+[542000000, ('T3_28 Executing on CPU 1', True)]
+[546000000, ('T1_79 Activated.', True)]
+[546000000, ('T3_28 Preempted! ret: 1000000', True)]
+[546000000, ('T2_46 Executing on CPU 1', True)]
+[549000000, ('T2_46 Terminated.', True)]
+[549000000, ('T1_79 Executing on CPU 1', True)]
+[552000000, ('T2_47 Activated.', True)]
+[552000000, ('T1_79 Terminated.', True)]
+[552000000, ('T3_28 Executing on CPU 1', True)]
+[553000000, ('T1_80 Activated.', True)]
+[553000000, ('T3_28 Terminated.', True)]
+[553000000, ('T1_80 Executing on CPU 1', True)]
+[556000000, ('T1_80 Terminated.', True)]
+[556000000, ('T2_47 Executing on CPU 1', True)]
+[559000000, ('T2_47 Terminated.', True)]
+[560000000, ('T3_29 Activated.', True)]
+[560000000, ('T1_81 Activated.', True)]
+[560000000, ('T1_81 Executing on CPU 1', True)]
+[563000000, ('T1_81 Terminated.', True)]
+[563000000, ('T3_29 Executing on CPU 1', True)]
+[564000000, ('T2_48 Activated.', True)]
+[564000000, ('T3_29 Preempted! ret: 4000000', True)]
+[564000000, ('T2_48 Executing on CPU 1', True)]
+[567000000, ('T1_82 Activated.', True)]
+[567000000, ('T2_48 Terminated.', True)]
+[567000000, ('T1_82 Executing on CPU 1', True)]
+[570000000, ('T1_82 Terminated.', True)]
+[570000000, ('T3_29 Executing on CPU 1', True)]
+[574000000, ('T1_83 Activated.', True)]
+[574000000, ('T3_29 Terminated.', True)]
+[574000000, ('T1_83 Executing on CPU 1', True)]
+[576000000, ('T2_49 Activated.', True)]
+[576000000, ('T1_83 Preempted! ret: 1000000', True)]
+[576000000, ('T1_83 Executing on CPU 1', True)]
+[577000000, ('T1_83 Terminated.', True)]
+[577000000, ('T2_49 Executing on CPU 1', True)]
+[580000000, ('T3_30 Activated.', True)]
+[580000000, ('T2_49 Terminated.', True)]
+[580000000, ('T3_30 Executing on CPU 1', True)]
+[581000000, ('T1_84 Activated.', True)]
+[581000000, ('T3_30 Preempted! ret: 4000000', True)]
+[581000000, ('T1_84 Executing on CPU 1', True)]
+[584000000, ('T1_84 Terminated.', True)]
+[584000000, ('T3_30 Executing on CPU 1', True)]
+[588000000, ('T2_50 Activated.', True)]
+[588000000, ('T1_85 Activated.', True)]
+[588000000, ('T3_30 Terminated.', True)]
+[588000000, ('T1_85 Executing on CPU 1', True)]
+[591000000, ('T1_85 Terminated.', True)]
+[591000000, ('T2_50 Executing on CPU 1', True)]
+[594000000, ('T2_50 Terminated.', True)]
+[595000000, ('T1_86 Activated.', True)]
+[595000000, ('T1_86 Executing on CPU 1', True)]
+[598000000, ('T1_86 Terminated.', True)]
+[600000000, ('T3_31 Activated.', True)]
+[600000000, ('T2_51 Activated.', True)]
+[600000000, ('T2_51 Executing on CPU 1', True)]
+[602000000, ('T1_87 Activated.', True)]
+[602000000, ('T2_51 Preempted! ret: 1000000', True)]
+[602000000, ('T1_87 Executing on CPU 1', True)]
+[605000000, ('T1_87 Terminated.', True)]
+[605000000, ('T2_51 Executing on CPU 1', True)]
+[606000000, ('T2_51 Terminated.', True)]
+[606000000, ('T3_31 Executing on CPU 1', True)]
+[609000000, ('T1_88 Activated.', True)]
+[609000000, ('T3_31 Preempted! ret: 2000000', True)]
+[609000000, ('T1_88 Executing on CPU 1', True)]
+[612000000, ('T2_52 Activated.', True)]
+[612000000, ('T1_88 Terminated.', True)]
+[612000000, ('T3_31 Executing on CPU 1', True)]
+[614000000, ('T3_31 Terminated.', True)]
+[614000000, ('T2_52 Executing on CPU 1', True)]
+[616000000, ('T1_89 Activated.', True)]
+[616000000, ('T2_52 Preempted! ret: 1000000', True)]
+[616000000, ('T1_89 Executing on CPU 1', True)]
+[619000000, ('T1_89 Terminated.', True)]
+[619000000, ('T2_52 Executing on CPU 1', True)]
+[620000000, ('T3_32 Activated.', True)]
+[620000000, ('T2_52 Terminated.', True)]
+[620000000, ('T3_32 Executing on CPU 1', True)]
+[623000000, ('T1_90 Activated.', True)]
+[623000000, ('T3_32 Preempted! ret: 2000000', True)]
+[623000000, ('T1_90 Executing on CPU 1', True)]
+[624000000, ('T2_53 Activated.', True)]
+[624000000, ('T1_90 Preempted! ret: 2000000', True)]
+[624000000, ('T1_90 Executing on CPU 1', True)]
+[626000000, ('T1_90 Terminated.', True)]
+[626000000, ('T3_32 Executing on CPU 1', True)]
+[628000000, ('T3_32 Terminated.', True)]
+[628000000, ('T2_53 Executing on CPU 1', True)]
+[630000000, ('T1_91 Activated.', True)]
+[630000000, ('T2_53 Preempted! ret: 1000000', True)]
+[630000000, ('T2_53 Executing on CPU 1', True)]
+[631000000, ('T2_53 Terminated.', True)]
+[631000000, ('T1_91 Executing on CPU 1', True)]
+[634000000, ('T1_91 Terminated.', True)]
+[636000000, ('T2_54 Activated.', True)]
+[636000000, ('T2_54 Executing on CPU 1', True)]
+[637000000, ('T1_92 Activated.', True)]
+[637000000, ('T2_54 Preempted! ret: 2000000', True)]
+[637000000, ('T1_92 Executing on CPU 1', True)]
+[640000000, ('T3_33 Activated.', True)]
+[640000000, ('T1_92 Terminated.', True)]
+[640000000, ('T2_54 Executing on CPU 1', True)]
+[642000000, ('T2_54 Terminated.', True)]
+[642000000, ('T3_33 Executing on CPU 1', True)]
+[644000000, ('T1_93 Activated.', True)]
+[644000000, ('T3_33 Preempted! ret: 3000000', True)]
+[644000000, ('T1_93 Executing on CPU 1', True)]
+[647000000, ('T1_93 Terminated.', True)]
+[647000000, ('T3_33 Executing on CPU 1', True)]
+[648000000, ('T2_55 Activated.', True)]
+[648000000, ('T3_33 Preempted! ret: 2000000', True)]
+[648000000, ('T3_33 Executing on CPU 1', True)]
+[650000000, ('T3_33 Terminated.', True)]
+[650000000, ('T2_55 Executing on CPU 1', True)]
+[651000000, ('T1_94 Activated.', True)]
+[651000000, ('T2_55 Preempted! ret: 2000000', True)]
+[651000000, ('T1_94 Executing on CPU 1', True)]
+[654000000, ('T1_94 Terminated.', True)]
+[654000000, ('T2_55 Executing on CPU 1', True)]
+[656000000, ('T2_55 Terminated.', True)]
+[658000000, ('T1_95 Activated.', True)]
+[658000000, ('T1_95 Executing on CPU 1', True)]
+[660000000, ('T3_34 Activated.', True)]
+[660000000, ('T2_56 Activated.', True)]
+[660000000, ('T1_95 Preempted! ret: 1000000', True)]
+[660000000, ('T1_95 Executing on CPU 1', True)]
+[661000000, ('T1_95 Terminated.', True)]
+[661000000, ('T2_56 Executing on CPU 1', True)]
+[664000000, ('T2_56 Terminated.', True)]
+[664000000, ('T3_34 Executing on CPU 1', True)]
+[665000000, ('T1_96 Activated.', True)]
+[665000000, ('T3_34 Preempted! ret: 4000000', True)]
+[665000000, ('T1_96 Executing on CPU 1', True)]
+[668000000, ('T1_96 Terminated.', True)]
+[668000000, ('T3_34 Executing on CPU 1', True)]
+[672000000, ('T2_57 Activated.', True)]
+[672000000, ('T1_97 Activated.', True)]
+[672000000, ('T3_34 Terminated.', True)]
+[672000000, ('T1_97 Executing on CPU 1', True)]
+[675000000, ('T1_97 Terminated.', True)]
+[675000000, ('T2_57 Executing on CPU 1', True)]
+[678000000, ('T2_57 Terminated.', True)]
+[679000000, ('T1_98 Activated.', True)]
+[679000000, ('T1_98 Executing on CPU 1', True)]
+[680000000, ('T3_35 Activated.', True)]
+[680000000, ('T1_98 Preempted! ret: 2000000', True)]
+[680000000, ('T1_98 Executing on CPU 1', True)]
+[682000000, ('T1_98 Terminated.', True)]
+[682000000, ('T3_35 Executing on CPU 1', True)]
+[684000000, ('T2_58 Activated.', True)]
+[684000000, ('T3_35 Preempted! ret: 3000000', True)]
+[684000000, ('T2_58 Executing on CPU 1', True)]
+[686000000, ('T1_99 Activated.', True)]
+[686000000, ('T2_58 Preempted! ret: 1000000', True)]
+[686000000, ('T1_99 Executing on CPU 1', True)]
+[689000000, ('T1_99 Terminated.', True)]
+[689000000, ('T2_58 Executing on CPU 1', True)]
+[690000000, ('T2_58 Terminated.', True)]
+[690000000, ('T3_35 Executing on CPU 1', True)]
+[693000000, ('T1_100 Activated.', True)]
+[693000000, ('T3_35 Terminated.', True)]
+[693000000, ('T1_100 Executing on CPU 1', True)]
+[696000000, ('T2_59 Activated.', True)]
+[696000000, ('T1_100 Terminated.', True)]
+[696000000, ('T2_59 Executing on CPU 1', True)]
+[699000000, ('T2_59 Terminated.', True)]
+[700000000, ('T3_36 Activated.', True)]
+[700000000, ('T1_101 Activated.', True)]
+[700000000, ('T1_101 Executing on CPU 1', True)]
+[703000000, ('T1_101 Terminated.', True)]
+[703000000, ('T3_36 Executing on CPU 1', True)]
+[707000000, ('T1_102 Activated.', True)]
+[707000000, ('T3_36 Preempted! ret: 1000000', True)]
+[707000000, ('T1_102 Executing on CPU 1', True)]
+[708000000, ('T2_60 Activated.', True)]
+[708000000, ('T1_102 Preempted! ret: 2000000', True)]
+[708000000, ('T1_102 Executing on CPU 1', True)]
+[710000000, ('T1_102 Terminated.', True)]
+[710000000, ('T2_60 Executing on CPU 1', True)]
+[713000000, ('T2_60 Terminated.', True)]
+[713000000, ('T3_36 Executing on CPU 1', True)]
+[714000000, ('T1_103 Activated.', True)]
+[714000000, ('T3_36 Terminated.', True)]
+[714000000, ('T1_103 Executing on CPU 1', True)]
+[717000000, ('T1_103 Terminated.', True)]
+[720000000, ('T3_37 Activated.', True)]
+[720000000, ('T2_61 Activated.', True)]
+[720000000, ('T2_61 Executing on CPU 1', True)]
+[721000000, ('T1_104 Activated.', True)]
+[721000000, ('T2_61 Preempted! ret: 2000000', True)]
+[721000000, ('T2_61 Executing on CPU 1', True)]
+[723000000, ('T2_61 Terminated.', True)]
+[723000000, ('T3_37 Executing on CPU 1', True)]
+[728000000, ('T1_105 Activated.', True)]
+[728000000, ('Job T1_104 aborted! ret:3.0', False)]
+[728000000, ('T3_37 Terminated.', True)]
+[728000000, ('T1_105 Executing on CPU 1', True)]
+[731000000, ('T1_105 Terminated.', True)]
+[732000000, ('T2_62 Activated.', True)]
+[732000000, ('T2_62 Executing on CPU 1', True)]
+[735000000, ('T1_106 Activated.', True)]
+[735000000, ('T2_62 Terminated.', True)]
+[735000000, ('T1_106 Executing on CPU 1', True)]
+[738000000, ('T1_106 Terminated.', True)]
+[740000000, ('T3_38 Activated.', True)]
+[740000000, ('T3_38 Executing on CPU 1', True)]
+[742000000, ('T1_107 Activated.', True)]
+[742000000, ('T3_38 Preempted! ret: 3000000', True)]
+[742000000, ('T1_107 Executing on CPU 1', True)]
+[744000000, ('T2_63 Activated.', True)]
+[744000000, ('T1_107 Preempted! ret: 1000000', True)]
+[744000000, ('T1_107 Executing on CPU 1', True)]
+[745000000, ('T1_107 Terminated.', True)]
+[745000000, ('T2_63 Executing on CPU 1', True)]
+[748000000, ('T2_63 Terminated.', True)]
+[748000000, ('T3_38 Executing on CPU 1', True)]
+[749000000, ('T1_108 Activated.', True)]
+[749000000, ('T3_38 Preempted! ret: 2000000', True)]
+[749000000, ('T1_108 Executing on CPU 1', True)]
+[752000000, ('T1_108 Terminated.', True)]
+[752000000, ('T3_38 Executing on CPU 1', True)]
+[754000000, ('T3_38 Terminated.', True)]
+[756000000, ('T2_64 Activated.', True)]
+[756000000, ('T1_109 Activated.', True)]
+[756000000, ('T1_109 Executing on CPU 1', True)]
+[759000000, ('T1_109 Terminated.', True)]
+[759000000, ('T2_64 Executing on CPU 1', True)]
+[760000000, ('T3_39 Activated.', True)]
+[760000000, ('T2_64 Preempted! ret: 2000000', True)]
+[760000000, ('T2_64 Executing on CPU 1', True)]
+[762000000, ('T2_64 Terminated.', True)]
+[762000000, ('T3_39 Executing on CPU 1', True)]
+[763000000, ('T1_110 Activated.', True)]
+[763000000, ('T3_39 Preempted! ret: 4000000', True)]
+[763000000, ('T1_110 Executing on CPU 1', True)]
+[766000000, ('T1_110 Terminated.', True)]
+[766000000, ('T3_39 Executing on CPU 1', True)]
+[768000000, ('T2_65 Activated.', True)]
+[768000000, ('T3_39 Preempted! ret: 2000000', True)]
+[768000000, ('T3_39 Executing on CPU 1', True)]
+[770000000, ('T1_111 Activated.', True)]
+[770000000, ('T3_39 Terminated.', True)]
+[770000000, ('T1_111 Executing on CPU 1', True)]
+[773000000, ('T1_111 Terminated.', True)]
+[773000000, ('T2_65 Executing on CPU 1', True)]
+[776000000, ('T2_65 Terminated.', True)]
+[777000000, ('T1_112 Activated.', True)]
+[777000000, ('T1_112 Executing on CPU 1', True)]
+[780000000, ('T3_40 Activated.', True)]
+[780000000, ('T2_66 Activated.', True)]
+[780000000, ('T1_112 Terminated.', True)]
+[780000000, ('T2_66 Executing on CPU 1', True)]
+[783000000, ('T2_66 Terminated.', True)]
+[783000000, ('T3_40 Executing on CPU 1', True)]
+[784000000, ('T1_113 Activated.', True)]
+[784000000, ('T3_40 Preempted! ret: 4000000', True)]
+[784000000, ('T1_113 Executing on CPU 1', True)]
+[787000000, ('T1_113 Terminated.', True)]
+[787000000, ('T3_40 Executing on CPU 1', True)]
+[791000000, ('T1_114 Activated.', True)]
+[791000000, ('T3_40 Terminated.', True)]
+[791000000, ('T1_114 Executing on CPU 1', True)]
+[792000000, ('T2_67 Activated.', True)]
+[792000000, ('T1_114 Preempted! ret: 2000000', True)]
+[792000000, ('T1_114 Executing on CPU 1', True)]
+[794000000, ('T1_114 Terminated.', True)]
+[794000000, ('T2_67 Executing on CPU 1', True)]
+[797000000, ('T2_67 Terminated.', True)]
+[798000000, ('T1_115 Activated.', True)]
+[798000000, ('T1_115 Executing on CPU 1', True)]
+[800000000, ('T3_41 Activated.', True)]
+[800000000, ('T1_115 Preempted! ret: 1000000', True)]
+[800000000, ('T1_115 Executing on CPU 1', True)]
+[801000000, ('T1_115 Terminated.', True)]
+[801000000, ('T3_41 Executing on CPU 1', True)]
+[804000000, ('T2_68 Activated.', True)]
+[804000000, ('T3_41 Preempted! ret: 2000000', True)]
+[804000000, ('T2_68 Executing on CPU 1', True)]
+[805000000, ('T1_116 Activated.', True)]
+[805000000, ('T2_68 Preempted! ret: 2000000', True)]
+[805000000, ('T1_116 Executing on CPU 1', True)]
+[808000000, ('T1_116 Terminated.', True)]
+[808000000, ('T3_41 Executing on CPU 1', True)]
+[810000000, ('T3_41 Terminated.', True)]
+[810000000, ('T2_68 Executing on CPU 1', True)]
+[812000000, ('T1_117 Activated.', True)]
+[812000000, ('T2_68 Terminated.', True)]
+[812000000, ('T1_117 Executing on CPU 1', True)]
+[815000000, ('T1_117 Terminated.', True)]
+[816000000, ('T2_69 Activated.', True)]
+[816000000, ('T2_69 Executing on CPU 1', True)]
+[819000000, ('T1_118 Activated.', True)]
+[819000000, ('T2_69 Terminated.', True)]
+[819000000, ('T1_118 Executing on CPU 1', True)]
+[820000000, ('T3_42 Activated.', True)]
+[820000000, ('T1_118 Preempted! ret: 2000000', True)]
+[820000000, ('T1_118 Executing on CPU 1', True)]
+[822000000, ('T1_118 Terminated.', True)]
+[822000000, ('T3_42 Executing on CPU 1', True)]
+[826000000, ('T1_119 Activated.', True)]
+[826000000, ('T3_42 Preempted! ret: 1000000', True)]
+[826000000, ('T1_119 Executing on CPU 1', True)]
+[828000000, ('T2_70 Activated.', True)]
+[828000000, ('T1_119 Preempted! ret: 1000000', True)]
+[828000000, ('T1_119 Executing on CPU 1', True)]
+[829000000, ('T1_119 Terminated.', True)]
+[829000000, ('T3_42 Executing on CPU 1', True)]
+[830000000, ('T3_42 Terminated.', True)]
+[830000000, ('T2_70 Executing on CPU 1', True)]
+[833000000, ('T1_120 Activated.', True)]
+[833000000, ('T2_70 Terminated.', True)]
+[833000000, ('T1_120 Executing on CPU 1', True)]
+[836000000, ('T1_120 Terminated.', True)]
+[840000000, ('T3_43 Activated.', True)]
+[840000000, ('T2_71 Activated.', True)]
+[840000000, ('T1_121 Activated.', True)]
+[840000000, ('T1_121 Executing on CPU 1', True)]
+[843000000, ('T1_121 Terminated.', True)]
+[843000000, ('T3_43 Executing on CPU 1', True)]
+[847000000, ('T1_122 Activated.', True)]
+[847000000, ('T3_43 Preempted! ret: 1000000', True)]
+[847000000, ('T2_71 Executing on CPU 1', True)]
+[850000000, ('T2_71 Terminated.', True)]
+[850000000, ('T1_122 Executing on CPU 1', True)]
+[852000000, ('T2_72 Activated.', True)]
+[852000000, ('T1_122 Preempted! ret: 1000000', True)]
+[852000000, ('T1_122 Executing on CPU 1', True)]
+[853000000, ('T1_122 Terminated.', True)]
+[853000000, ('T3_43 Executing on CPU 1', True)]
+[854000000, ('T1_123 Activated.', True)]
+[854000000, ('T3_43 Terminated.', True)]
+[854000000, ('T1_123 Executing on CPU 1', True)]
+[857000000, ('T1_123 Terminated.', True)]
+[857000000, ('T2_72 Executing on CPU 1', True)]
+[860000000, ('T3_44 Activated.', True)]
+[860000000, ('T2_72 Terminated.', True)]
+[860000000, ('T3_44 Executing on CPU 1', True)]
+[861000000, ('T1_124 Activated.', True)]
+[861000000, ('T3_44 Preempted! ret: 4000000', True)]
+[861000000, ('T1_124 Executing on CPU 1', True)]
+[864000000, ('T2_73 Activated.', True)]
+[864000000, ('T1_124 Terminated.', True)]
+[864000000, ('T2_73 Executing on CPU 1', True)]
+[867000000, ('T2_73 Terminated.', True)]
+[867000000, ('T3_44 Executing on CPU 1', True)]
+[868000000, ('T1_125 Activated.', True)]
+[868000000, ('T3_44 Preempted! ret: 3000000', True)]
+[868000000, ('T1_125 Executing on CPU 1', True)]
+[871000000, ('T1_125 Terminated.', True)]
+[871000000, ('T3_44 Executing on CPU 1', True)]
+[874000000, ('T3_44 Terminated.', True)]
+[875000000, ('T1_126 Activated.', True)]
+[875000000, ('T1_126 Executing on CPU 1', True)]
+[876000000, ('T2_74 Activated.', True)]
+[876000000, ('T1_126 Preempted! ret: 2000000', True)]
+[876000000, ('T1_126 Executing on CPU 1', True)]
+[878000000, ('T1_126 Terminated.', True)]
+[878000000, ('T2_74 Executing on CPU 1', True)]
+[880000000, ('T3_45 Activated.', True)]
+[880000000, ('T2_74 Preempted! ret: 1000000', True)]
+[880000000, ('T2_74 Executing on CPU 1', True)]
+[881000000, ('T2_74 Terminated.', True)]
+[881000000, ('T3_45 Executing on CPU 1', True)]
+[882000000, ('T1_127 Activated.', True)]
+[882000000, ('T3_45 Preempted! ret: 4000000', True)]
+[882000000, ('T1_127 Executing on CPU 1', True)]
+[885000000, ('T1_127 Terminated.', True)]
+[885000000, ('T3_45 Executing on CPU 1', True)]
+[888000000, ('T2_75 Activated.', True)]
+[888000000, ('T3_45 Preempted! ret: 1000000', True)]
+[888000000, ('T3_45 Executing on CPU 1', True)]
+[889000000, ('T1_128 Activated.', True)]
+[889000000, ('T3_45 Terminated.', True)]
+[889000000, ('T1_128 Executing on CPU 1', True)]
+[892000000, ('T1_128 Terminated.', True)]
+[892000000, ('T2_75 Executing on CPU 1', True)]
+[895000000, ('T2_75 Terminated.', True)]
+[896000000, ('T1_129 Activated.', True)]
+[896000000, ('T1_129 Executing on CPU 1', True)]
+[899000000, ('T1_129 Terminated.', True)]
+[900000000, ('T3_46 Activated.', True)]
+[900000000, ('T2_76 Activated.', True)]
+[900000000, ('T2_76 Executing on CPU 1', True)]
+[903000000, ('T1_130 Activated.', True)]
+[903000000, ('T2_76 Terminated.', True)]
+[903000000, ('T1_130 Executing on CPU 1', True)]
+[906000000, ('T1_130 Terminated.', True)]
+[906000000, ('T3_46 Executing on CPU 1', True)]
+[910000000, ('T1_131 Activated.', True)]
+[910000000, ('T3_46 Preempted! ret: 1000000', True)]
+[910000000, ('T1_131 Executing on CPU 1', True)]
+[912000000, ('T2_77 Activated.', True)]
+[912000000, ('T1_131 Preempted! ret: 1000000', True)]
+[912000000, ('T1_131 Executing on CPU 1', True)]
+[913000000, ('T1_131 Terminated.', True)]
+[913000000, ('T2_77 Executing on CPU 1', True)]
+[916000000, ('T2_77 Terminated.', True)]
+[916000000, ('T3_46 Executing on CPU 1', True)]
+[917000000, ('T1_132 Activated.', True)]
+[917000000, ('T3_46 Terminated.', True)]
+[917000000, ('T1_132 Executing on CPU 1', True)]
+[920000000, ('T3_47 Activated.', True)]
+[920000000, ('T1_132 Terminated.', True)]
+[920000000, ('T3_47 Executing on CPU 1', True)]
+[924000000, ('T2_78 Activated.', True)]
+[924000000, ('T1_133 Activated.', True)]
+[924000000, ('T3_47 Preempted! ret: 1000000', True)]
+[924000000, ('T1_133 Executing on CPU 1', True)]
+[927000000, ('T1_133 Terminated.', True)]
+[927000000, ('T3_47 Executing on CPU 1', True)]
+[928000000, ('T3_47 Terminated.', True)]
+[928000000, ('T2_78 Executing on CPU 1', True)]
+[931000000, ('T1_134 Activated.', True)]
+[931000000, ('T2_78 Terminated.', True)]
+[931000000, ('T1_134 Executing on CPU 1', True)]
+[934000000, ('T1_134 Terminated.', True)]
+[936000000, ('T2_79 Activated.', True)]
+[936000000, ('T2_79 Executing on CPU 1', True)]
+[938000000, ('T1_135 Activated.', True)]
+[938000000, ('T2_79 Preempted! ret: 1000000', True)]
+[938000000, ('T1_135 Executing on CPU 1', True)]
+[940000000, ('T3_48 Activated.', True)]
+[940000000, ('T1_135 Preempted! ret: 1000000', True)]
+[940000000, ('T1_135 Executing on CPU 1', True)]
+[941000000, ('T1_135 Terminated.', True)]
+[941000000, ('T3_48 Executing on CPU 1', True)]
+[945000000, ('T1_136 Activated.', True)]
+[945000000, ('T3_48 Preempted! ret: 1000000', True)]
+[945000000, ('T1_136 Executing on CPU 1', True)]
+[948000000, ('T2_80 Activated.', True)]
+[948000000, ('Job T2_79 aborted! ret:1.0', False)]
+[948000000, ('T1_136 Terminated.', True)]
+[948000000, ('T3_48 Executing on CPU 1', True)]
+[949000000, ('T3_48 Terminated.', True)]
+[949000000, ('T2_80 Executing on CPU 1', True)]
+[952000000, ('T1_137 Activated.', True)]
+[952000000, ('T2_80 Terminated.', True)]
+[952000000, ('T1_137 Executing on CPU 1', True)]
+[955000000, ('T1_137 Terminated.', True)]
+[959000000, ('T1_138 Activated.', True)]
+[959000000, ('T1_138 Executing on CPU 1', True)]
+[960000000, ('T3_49 Activated.', True)]
+[960000000, ('T2_81 Activated.', True)]
+[960000000, ('T1_138 Preempted! ret: 2000000', True)]
+[960000000, ('T1_138 Executing on CPU 1', True)]
+[962000000, ('T1_138 Terminated.', True)]
+[962000000, ('T3_49 Executing on CPU 1', True)]
+[966000000, ('T1_139 Activated.', True)]
+[966000000, ('T3_49 Preempted! ret: 1000000', True)]
+[966000000, ('T1_139 Executing on CPU 1', True)]
+[969000000, ('T1_139 Terminated.', True)]
+[969000000, ('T3_49 Executing on CPU 1', True)]
+[970000000, ('T3_49 Terminated.', True)]
+[970000000, ('T2_81 Executing on CPU 1', True)]
+[972000000, ('T2_82 Activated.', True)]
+[972000000, ('Job T2_81 aborted! ret:1.0', False)]
+[972000000, ('T2_82 Executing on CPU 1', True)]
+[973000000, ('T1_140 Activated.', True)]
+[973000000, ('T2_82 Preempted! ret: 2000000', True)]
+[973000000, ('T1_140 Executing on CPU 1', True)]
+[976000000, ('T1_140 Terminated.', True)]
+[976000000, ('T2_82 Executing on CPU 1', True)]
+[978000000, ('T2_82 Terminated.', True)]
+[980000000, ('T3_50 Activated.', True)]
+[980000000, ('T1_141 Activated.', True)]
+[980000000, ('T1_141 Executing on CPU 1', True)]
+[983000000, ('T1_141 Terminated.', True)]
+[983000000, ('T3_50 Executing on CPU 1', True)]
+[984000000, ('T2_83 Activated.', True)]
+[984000000, ('T3_50 Preempted! ret: 4000000', True)]
+[984000000, ('T2_83 Executing on CPU 1', True)]
+[987000000, ('T1_142 Activated.', True)]
+[987000000, ('T2_83 Terminated.', True)]
+[987000000, ('T1_142 Executing on CPU 1', True)]
+[990000000, ('T1_142 Terminated.', True)]
+[990000000, ('T3_50 Executing on CPU 1', True)]
+[994000000, ('T1_143 Activated.', True)]
+[994000000, ('T3_50 Terminated.', True)]
+[994000000, ('T1_143 Executing on CPU 1', True)]
+[996000000, ('T2_84 Activated.', True)]
+[996000000, ('T1_143 Preempted! ret: 1000000', True)]
+[996000000, ('T1_143 Executing on CPU 1', True)]
+[997000000, ('T1_143 Terminated.', True)]
+[997000000, ('T2_84 Executing on CPU 1', True)]
+[1000000000, ('T3_51 Activated.', True)]
+[1000000000, ('T2_84 Terminated.', True)]
+[1000000000, ('T3_51 Executing on CPU 1', True)]
